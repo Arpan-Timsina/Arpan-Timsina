@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=300 />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width=500 />
 
 <img src="https://img.shields.io/badge/-Arpan%20Timsina.-black?style=for-the-badge" width=400>
 
@@ -46,7 +46,7 @@
 ![](https://img.shields.io/badge/VS_Code-3ea5ea?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/vim-449132?style=for-the-badge&logo=vim&logoColor=white)
 
-## Github Stats
+
 
 <!-- <p>
 <img align="left" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
