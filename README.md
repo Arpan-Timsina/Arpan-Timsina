@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Bash-030303?style=for-the-badge&logo=shell&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-45923a?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-3ea5ea?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/vim-449132?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Django-449132?style=for-the-badge&logo=django&logoColor=white)
 
 
 
