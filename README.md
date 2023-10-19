@@ -1,8 +1,8 @@
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=300 />
 
-<img src="https://img.shields.io/badge/-Pratik%20Neupane.-black?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Arpan%20Timsina.-black?style=for-the-badge" width=400>
 
-<img src="https://img.shields.io/badge/-Fullstack%20MERN%20Developer%20-black?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Frontendk%20MERN%20Developer%20-black?style=for-the-badge" width=400>
 
 <h2>Connect With Me</h2>
 
