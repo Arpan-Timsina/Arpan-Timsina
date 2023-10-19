@@ -7,12 +7,12 @@
 <h2>Connect With Me</h2>
 
 <a href="mailto:arpantimsina16@gmail.com">
-  <img src="https://img.shields.io/badge/Proton%20Mail-6d4bfe?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-6d4bfe?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
-<a href="https://www.facebook.com/pratikneupane17">
+<a href="https://www.facebook.com/arpantimsina">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a> 
-<a href="https://www.linkedin.com/in/lordhendrix40/">
+<a href="https://www.linkedin.com/in/arpan-timsina-a892721a1/">
   <img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 <!-- <a href="https://twitter.com/lordhendrix_17">
@@ -55,10 +55,9 @@
 <img align="center" width="550px" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p> -->
 <p>
-<img width="780px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
+<!-- <img width="780px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p>
+ -->
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratikneupane&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true" height=200>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikneupane&langs_count=3&theme=chartreuse-dark&hide_border=true&show_icons=true&hide=html,css,glsl" height=200>
