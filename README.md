@@ -58,7 +58,7 @@
 <!-- <img width="780px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p>
  -->
- #GITHUB_STATS
+## GITHUB STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arpan-Timsina&theme=dracula&show_icons=true&hide_border=true&count_private=false" height=200>  
 
