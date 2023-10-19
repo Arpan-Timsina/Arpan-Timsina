@@ -2,12 +2,12 @@
 
 <img src="https://img.shields.io/badge/-Arpan%20Timsina.-black?style=for-the-badge" width=400>
 
-<img src="https://img.shields.io/badge/-Frontendk%20MERN%20Developer%20-black?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Frontend%20Developer%20-black?style=for-the-badge" width=400>
 
 <h2>Connect With Me</h2>
 
-<a href="mailto:pratikneupane@proton.me">
-  <img src="https://img.shields.io/badge/Proton%20Mail-6d4bfe?style=for-the-badge&logo=protonmail&logoColor=white">
+<a href="mailto:arpantimsina16@gmail.com">
+  <img src="https://img.shields.io/badge/Proton%20Mail-6d4bfe?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
 <a href="https://www.facebook.com/pratikneupane17">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
