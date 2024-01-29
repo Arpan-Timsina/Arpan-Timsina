@@ -1,8 +1,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width=500 />
 
-<img src="https://img.shields.io/badge/-Arpan%20Timsina.-black?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Arpan%20Timsina-black?style=for-the-badge" width=400>
 
-<img src="https://img.shields.io/badge/-Frontend%20Developer%20-black?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Full%20Stack%20Developer%20-black?style=for-the-badge" width=400>
 
 <h2>Connect With Me</h2>
 
