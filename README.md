@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width=500 />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width=500 />
 
 <img src="https://img.shields.io/badge/-Arpan%20Timsina.-black?style=for-the-badge" width=400>
 
