@@ -37,7 +37,7 @@ infra      Cloudflare · Nginx · GitHub Actions · PM2
 ```
 os      → Arch Linux
 shell   → zsh
-editor  → VS Code
+editor  → Zed
 deploy  → Docker + Kubernetes
 ```
 
