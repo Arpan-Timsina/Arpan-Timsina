@@ -9,21 +9,21 @@ building products, infrastructure, and intelligent systems.
 
 <br/>
 
-```ts
+<pre>
 const arpan = {
   role: "Full Stack Engineer",
   stack: "Product × Platform × AI",
   philosophy: "minimal • scalable • ship fast"
 }
-````
+</pre>
 
 <br/>
 
-[Email](mailto:arpantimsina16@gmail.com)
+<a href="mailto:arpantimsina16@gmail.com">email</a>
 •
-[LinkedIn](https://www.linkedin.com/in/arpan-timsina-a892721a1/)
+<a href="https://www.linkedin.com/in/arpan-timsina-a892721a1/">linkedin</a>
 •
-[Facebook](https://www.facebook.com/arpantimsina)
+<a href="https://www.facebook.com/arpantimsina">facebook</a>
 
 </div>
 
@@ -31,48 +31,29 @@ const arpan = {
 
 ## /stack
 
-### frontend
+**frontend**  
+`Next.js` `React` `TypeScript` `Tailwind`
 
-`Next.js`
-`React`
-`TypeScript`
-`Tailwind`
+**backend**  
+`Node.js` `Go` `Python` `Django`
 
-### backend
+**data**  
+`PostgreSQL` `Redis`
 
-`Node.js`
-`Go`
-`Python`
-`Django`
-`REST`
-`GraphQL`
+**devops / cloud**  
+`Docker` `Kubernetes` `AWS`  
+`Cloudflare` `Terraform` `Nginx`  
+`GitHub Actions` `CI/CD` `PM2`
 
-### data
+**environment**  
 
-`PostgreSQL`
-`Redis`
-
-### devops / cloud
-
-`Docker`
-`Kubernetes`
-`AWS`
-`Cloudflare`
-`Nginx`
-`Linux`
-`Terraform`
-`GitHub Actions`
-`CI/CD`
-`PM2`
-
-### architecture
-
-`Multi Tenant`
-`Microservices`
-`Background Jobs`
-`Event Driven`
-`Observability`
-`API Design`
+```bash
+os       → Arch Linux
+shell    → zsh
+editor   → VS Code
+infra    → AWS
+deploy   → Docker + Kubernetes
+````
 
 ---
 
@@ -82,46 +63,16 @@ const arpan = {
 → building AI products
 → designing cloud systems
 → exploring multi-agent orchestration
-→ making support software feel invisible
 ```
 
 ---
-
-## /workspace
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
 
-</div>
-
-```bash
-OS        → Arch Linux
-Editor    → VS Code
-Shell     → zsh
-Deploy    → Docker + Kubernetes
-Infra     → AWS
-```
-
----
-
-## /principles
-
-```txt
-write less
-automate more
-measure everything
-optimize later
-```
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100%" />
-
-minimal interfaces.
-reliable systems.
+minimal interfaces
+reliable systems
 
 </div>
 ```
