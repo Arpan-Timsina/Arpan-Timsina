@@ -1,65 +1,49 @@
-```md
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" alt="banner" />
 
-# arpan/
+### `~/arpan` &nbsp;·&nbsp; full stack engineer
 
 building products, infrastructure, and intelligent systems.
 
-<br/>
+`minimal` &nbsp;•&nbsp; `scalable` &nbsp;•&nbsp; `ship fast`
 
-<pre>
-const arpan = {
-  role: "Full Stack Engineer",
-  stack: "Product × Platform × AI",
-  philosophy: "minimal • scalable • ship fast"
-}
-</pre>
-
-<br/>
-
-<a href="mailto:arpantimsina16@gmail.com">email</a>
-•
-<a href="https://www.linkedin.com/in/arpan-timsina-a892721a1/">linkedin</a>
-•
-<a href="https://www.facebook.com/arpantimsina">facebook</a>
+[email](mailto:arpantimsina16@gmail.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/arpan-timsina-a892721a1/) &nbsp;·&nbsp; [facebook](https://www.facebook.com/arpantimsina)
 
 </div>
 
----
-
-## /stack
-
-**frontend**  
-`Next.js` `React` `TypeScript` `Tailwind`
-
-**backend**  
-`Node.js` `Go` `Python` `Django`
-
-**data**  
-`PostgreSQL` `Redis`
-
-**devops / cloud**  
-`Docker` `Kubernetes` `AWS`  
-`Cloudflare` `Terraform` `Nginx`  
-`GitHub Actions` `CI/CD` `PM2`
-
-**environment**  
-
-```bash
-os       → Arch Linux
-shell    → zsh
-editor   → VS Code
-infra    → AWS
-deploy   → Docker + Kubernetes
-````
+```ts
+const arpan = {
+  role:       "Full Stack Engineer",
+  stack:      "Product × Platform × AI",
+  philosophy: "minimal • scalable • ship fast",
+}
+```
 
 ---
 
-## /currently
+### stack
 
-```txt
+```
+frontend   Next.js · React · TypeScript · Tailwind
+backend    Node.js · Go · Python · Django
+data       PostgreSQL · Redis
+cloud      Docker · Kubernetes · AWS · Terraform
+infra      Cloudflare · Nginx · GitHub Actions · PM2
+```
+
+### environment
+
+```
+os      → Arch Linux
+shell   → zsh
+editor  → VS Code
+deploy  → Docker + Kubernetes
+```
+
+### currently
+
+```
 → building AI products
 → designing cloud systems
 → exploring multi-agent orchestration
@@ -69,10 +53,8 @@ deploy   → Docker + Kubernetes
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="footer" />
 
-minimal interfaces
-reliable systems
+_minimal interfaces · reliable systems_
 
 </div>
-```
